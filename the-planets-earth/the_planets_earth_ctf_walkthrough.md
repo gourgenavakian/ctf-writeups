@@ -21,9 +21,10 @@ This walkthrough covers a full exploit chain on the VulnHub VM **“The Planets:
 ---
 
 # SECTION 1 — SETUP & RECON
-**Target:** VulnHub VM “The Planets: Earth”  
-**Attacker:** Kali Linux (example: Kali 2024.4)  
-**Network:** VirtualBox Host-Only (ensure both VMs are in same subnet)
+- **Target:** VulnHub VM “The Planets: Earth”  
+- **Difficulty:** Easy–Medium
+- **Attacker:** Kali Linux (example: Kali 2024.4)  
+- **Network:** VirtualBox Host-Only (ensure both VMs are in same subnet)
 
 ### Prerequisites (local lab)
 - VirtualBox / VMware

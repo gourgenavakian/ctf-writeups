@@ -24,9 +24,10 @@ This walkthrough covers a full exploit chain on the Mercury VM — a tiny hacker
 
 # SECTION 1 --- SETUP & RECON
 
-**Target:** Mercury VM
-**Attacker:** Kali Linux
-**Network:** Host-Only / NAT — ensure your VMs can talk.
+- **Target:** Mercury VM
+- **Difficulty:** Easy
+- **Attacker:** Kali Linux
+- **Network:** Host-Only / NAT — ensure your VMs can talk.
 
 ### Quick Discovery
 
