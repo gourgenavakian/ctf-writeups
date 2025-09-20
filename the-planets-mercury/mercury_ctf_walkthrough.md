@@ -1,4 +1,4 @@
-# Mercury VM — CTF Walkthrough
+# The Planets: Mercury — VulnHub CTF Walkthrough
 
 **By Gourgen Avakyan** — web enumeration ➔ SQLi ➔ creds ➔ SSH ➔ local priv-esc ➔ root flag
 
